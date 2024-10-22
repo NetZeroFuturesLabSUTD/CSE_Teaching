@@ -62,25 +62,25 @@ This code is conducted by using UHI_yr metric and its dataset, the other metrics
 
 ### Spearman Correlation Analysis
 
-![Image 1](path/to/image1.png)
+![Image 1](Figure3.PNG)
 
 - 2. Scatterplot: Pairplot visualization
 
 ### Pairplot with Kernel Density Distribution
 
-![Image 1](path/to/image1.png)
+![Image 1](Figure3.PNG)
 
 - 3. Scatterplot: Filtered solutions
 
 ### Single- / Multi-plot Data filtering
 
-![Image 1](path/to/image1.png)
+![Image 1](Figure3.PNG)
 
 - 4. Scatterplot: Selected solutions
 
 ### Single-plot Data filtering
 
-![Image 1](path/to/image1.png)
+![Image 1](Figure3.PNG)
 
 ## Dataset Summary
 
