@@ -105,7 +105,7 @@ This code is conducted by using UHI_yr metric and its dataset, the other metrics
 
 ### 1. Heatmap: Correlation coefficient visualization : Spearman Correlation Analysis
 
-<img src="Figure3.png" alt="Heatmap" width="600"/>
+<img src="heatmap.png" alt="Heatmap" width="600"/>
 
 ---
 
