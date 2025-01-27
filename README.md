@@ -1,12 +1,12 @@
 # Urban Data Analytics for Urban Heat Island Metrics
 
-- **Article:** Urban Heat Island Mitigation with Generative Models: A Case Study of Urban Design Exploration for Singapore’s Tropical Climate
+- **Article:** Urban Data Analytics for Urban Heat Island Mitigation: A Case Study of Urban Design Exploration for Singapore’s Tropical Climate
 - **Journal:** Case Studies in the Environment Special Issue: Case Studies from GIS and Sustainability Science - 2024
-- **Authors:** Elif Esra Aydin, F. Peter Ortner, Praveen Govindarajan, JingZhi Tay, Zebin Chen, Peng Song.
+- **Authors:** Elif Esra Aydin, F. Peter Ortner, Praveen Govindarajan, JingZhi Tay, Zebin Chen.
 - **Institution:** Net Zero Futures Lab (NFZL) and [Adaptive Design Lab](https://adaptivedesignlab.com/) - SUTD
 - **Description:** This data analytics code written to analyze an extensive dataset for Urban Heat Island (UHI) metrics. The published code can be used as an examplary practice to learn, reiterate, and improve the visualization skills.
 
-- **Latest update:** 24/10/2024
+- **Latest update:** 27/01/2025
 
 ## **Table of Contents**
 
@@ -39,7 +39,7 @@ This study requests 4 libraries to work on data frames and their visualization:
 For their installation, please follow the following steps.
 
 1. Open a terminal for “command prompt” from the search tab of your computer.
-2. When terminal is opened, please install the libraries by writing the given codes below in the terminal subsequently:
+2. When terminal is opened, please install the libraries by writing the given codes below in the terminal window:
 
 > pip install pandas numpy seaborn matplotlib
 
@@ -136,7 +136,7 @@ This code is conducted by using UHI_yr metric and its dataset, the other metrics
 ## Acknowledgement
 
 This study is conducted as a part of the project “Computational Modelling for Optimisation of Planning and Urban Design Parameters,” led by F. Peter Ortner.<br>
-Its preliminary version was presented at Singapore Urban Redevelopment Authority’s Shaping a Heat Resilient City Exhibition in 2023. This project was funded by Urban Redevelopment Authority (URA) of Singapore.
+This project is funded by Urban Redevelopment Authority (URA) of Singapore, and its preliminary version was presented at Singapore Urban Redevelopment Authority’s Shaping a Heat Resilient City Exhibition in 2023. <br> We would like to share our gratitude to Assist. Prof. Peng Song (Co-PI) for his contribution to develop parcel and road generation algorithms in this project.
 
 ## Links
 
@@ -153,6 +153,12 @@ Its preliminary version was presented at Singapore Urban Redevelopment Authority
 - Optimization study - I: [Govindarajan and Ortner (2024)](https://publications.ibpsa.org/proceedings/simbuild/2024/papers/simbuild2024_2252.pdf)
 - Optimization study - II: [Govindarajan et al. (2024)](https://papers.cumincad.org/data/works/att/ecaade2024_225.pdf)
 - Sensitivity Analysis study: [Aydin et al. (2024)](https://doi.org/10.1016/j.scs.2024.105779)
+
+### **Tutorials**
+
+- [Grasshopper Tutorials](https://www.youtube.com/watch?v=dhJ5Bws1bOA&list=PLfjURQOKX-yeMjsRaxqDhWUxoOK2aRCn4)
+- [Urban Weather Generator](https://hydrashare.github.io/hydra/viewer?owner=chriswmackey&fork=hydra_2&id=Urban_Weather_Generator_Workflow&slide=0&scale=1&offset=0,0)
+- [Python](https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU&ab_channel=CoreySchafer)
 
 ### **LinkedIn**
 
