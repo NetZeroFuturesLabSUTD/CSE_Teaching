@@ -25,7 +25,7 @@ To work with the shared dataset and the code, you may need this step to complete
 Visual Studio Code & Python installation:
 
 1. Download Visual Studio Code (VSC), for more information: [Visual Studio Code](https://code.visualstudio.com/)
-2. Open the shared jupyter notebook code with VSC: [**CSE_visualizationCode_NZFL.ipynb**](CSE_visualizationCode_NZFL.ipynb)
+2. Open the shared jupyter notebook code with VSC: [**CSE_visualizationCode_NZFL3.ipynb**](CSE_visualizationCode_NZFL3.ipynb)
 3. Download the suggested Python in VSC platform
 
 Python libraries installation:
